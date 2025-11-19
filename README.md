@@ -1,15 +1,15 @@
 # Alura-Store
 Análisis Dataset Store Alura
 
-# 🛍️ Alura Store Latam - Análisis de Tiendas
+# Alura Store Latam - Análisis de Tiendas
 
 Este proyecto realiza un análisis exploratorio de datos de cuatro tiendas de la plataforma Alura Store Latam, con el objetivo de identificar cuál de ellas representa menor rentabilidad y debería ser vendida por el Sr. Juan.
 
-## 📌 Objetivo
+## Objetivo
 
 Determinar, mediante análisis de ventas, categorías, productos, calificaciones y costos de envío, cuál de las tiendas es menos rentable y debe ser descartada.
 
-## 📊 Datos Analizados
+## Datos Analizados
 
 Los datos provienen de archivos CSV públicos alojados en GitHub:
 
@@ -26,7 +26,7 @@ Cada archivo contiene información sobre:
 - Calificación del cliente
 - Costo de envío
 
-## 🧪 Análisis Realizados
+## Análisis Realizados
 
 1. **Facturación total por tienda**
 2. **Ventas por categoría de producto**
@@ -35,7 +35,7 @@ Cada archivo contiene información sobre:
 5. **Costo de envío promedio**
 6. **Visualizaciones gráficas comparativas**
 
-## 📈 Visualizaciones
+## Visualizaciones
 
 El proyecto incluye gráficos generados con `matplotlib` para:
 
@@ -43,7 +43,7 @@ El proyecto incluye gráficos generados con `matplotlib` para:
 - Mostrar ventas totales por tienda
 - Visualizar el costo de envío promedio
 
-## 📋 Conclusión
+## Conclusión
 
 Tras el análisis, se concluye que **la Tienda 4** es la menos rentable:
 
